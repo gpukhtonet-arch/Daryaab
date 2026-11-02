@@ -1,0 +1,15 @@
+@font-face {
+  font-family: "Daryaab.Net";
+  src: url("./Daryaab.Net.woff2") format("woff2"),
+       url("./Daryaab.Net.woff") format("woff"),
+       url("./Daryaab.Net.ttf") format("truetype");
+  font-weight: 100 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+html, body {
+  font-family: "Daryaab.Net", serif;
+  direction: rtl;
+  text-align: right;
+}

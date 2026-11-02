@@ -1,0 +1,27 @@
+@font-face {
+    font-family: 'Daryaab.Net';
+    src: url('DaryaabNet.woff2') format('woff2'),
+        url('DaryaabNet.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Daryaab.Net';
+    src: url('DaryaabNet_1.woff2') format('woff2'),
+        url('DaryaabNet_1.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Daryaab.Net';
+    src: url('DaryaabNet_2.woff2') format('woff2'),
+        url('DaryaabNet_2.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
